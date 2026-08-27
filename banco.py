@@ -14,4 +14,3 @@ def conectar():
         print(f"Não foi possivel conectar ao Banco de Dados: {e}")
         return None
 
-conectar()
